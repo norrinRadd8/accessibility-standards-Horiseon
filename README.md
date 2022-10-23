@@ -18,6 +18,7 @@ This will be carried out by refactoring the HTML and CSS code. I aim to clean up
 N/A
 
 ## Installation
+Live link to website for review. https://norrinradd8.github.io/accessibility-standards-horiseon/
 
 ## Usage
 
