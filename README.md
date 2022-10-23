@@ -19,6 +19,7 @@ N/A
 
 ## Installation
 Live link to website for review. https://norrinradd8.github.io/accessibility-standards-horiseon/
+GitHub URL. https://github.com/norrinRadd8/accessibility-standards-horiseon
 
 ## Usage
 
